@@ -40,25 +40,25 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 ### Questions
 
-- [x] B1) Give me an example of a project or initiative that you started on your own. What prompted you to get started?
+- [ ] B1) Give me an example of a project or initiative that you started on your own. What prompted you to get started?
 
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
-- [x] B2) Tell me about a time you had to work on several projects at once. How did you handle this?
+- [ ] B2) Tell me about a time you had to work on several projects at once. How did you handle this?
 
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
-- [x] B3) Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
+- [ ] B3) Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
 
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
-- [x] B4) ell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
+- [ ] B4) ell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
 
   - **Cause:** 
   - **Action:** 
@@ -90,7 +90,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** 
   - **Result:** 
 
-- [x] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
+- [ ] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
 
   - **Cause:** 
   - **Action:** 
@@ -122,7 +122,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 
-- [x] B14) Tell me about your experience at Digital Futures.
+- [ ] B14) Tell me about your experience at Digital Futures.
 
   - Digital Futures is an academy with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used was Java,Javascript, React, Node and MongoDB.
 
@@ -158,7 +158,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** 
   - **Result:** 
 
-- [x] B20) What do you read on a regular basis?
+- [ ] B20) What do you read on a regular basis?
   - 
 
 - [ ] B21) What's some critical feedback you've gotten recently?
@@ -168,7 +168,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:** 
   
 
-- [ ] B22) Do you have any questions?
+- [x] B22) Do you have any questions?
 1. How does Bob’s Burgers measure the success of their engineers?
 2. What challenges can an engineer come across while working at Bob’s Burgers?
 3. Can you explain "thing you read on their engineering blog" and how it affects Bob’s Burgers Engineers?
